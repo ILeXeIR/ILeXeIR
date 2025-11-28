@@ -1,16 +1,35 @@
-## Hi there 👋
+### Hi, I'm Alex 👋  
+**Python Backend Developer — Amsterdam, NL**
 
-<!--
-**ILeXeIR/ILeXeIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend services, REST APIs, automation tools, and secure, reliable systems.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+
+**Languages:**
+Python • C • C++
+
+**Frameworks:**  
+FastAPI • Django • DRF • AsyncIO • Aiogram • Pydantic
+
+**Databases:**  
+PostgreSQL • MySQL • Redis  
+
+**Infrastructure:**  
+Docker • Docker Compose • Linux • Nginx • Git  
+
+**Security:**  
+Cybersecurity • Vulnerability scanning • Automation  
+
+---
+
+## 🎓 Education
+
+- **Codam College (42 Network), Amsterdam** — Software Engineering Program
+
+---
+
+## 📫 Contact
+
+**LinkedIn:** https://linkedin.com/in/alexander-petukhov
