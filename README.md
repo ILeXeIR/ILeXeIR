@@ -7,7 +7,7 @@ I build backend services, REST APIs, automation tools, and secure, reliable syst
 
 ## 🔧 Tech Stack
 
-**Languages:**
+**Languages:**  
 Python • C • C++
 
 **Frameworks:**  
